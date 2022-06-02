@@ -1,25 +1,33 @@
-import logo from './logo.svg';
-import './App.css';
-
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+  return <div>
+    <h1>Calendar Application</h1>
+    <div>
+    <p>
+      PAGES NEEDED (bare minimum):
+      <ul>
+        <li>
+          "Home"/landing page
+        </li>
+        <li>
+          Login/Signup page
+        </li>
+        <li>
+          Basic Calendar overview
+        </li>
+        <li>
+          Appointment view with tasks & edit option
+        </li>
+      </ul>
+    </p>
     </div>
-  );
+    Hola
+    <p>
+      Text and stuff goes here
+      <br />
+      
+
+    </p>
+    </div>
 }
 
 export default App;
