@@ -1,12 +1,10 @@
 # Front-End for full-stack Booking application
 This repository will be the front-end for a yet-to-be-properly-named Booking/Calendar application
 
-It is being built in React, which I am still getting comfortable with, hence the delay in completion.
 
+### Update 2023
+May finish this, may scrap and try again from the beginning -- the 'booking app' concept will be tweaked and adjusted a bit, but this project is not dead.
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
