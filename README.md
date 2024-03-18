@@ -2,7 +2,7 @@
 This repository will be the front-end for a yet-to-be-properly-named Booking/Calendar application
 
 
-### Update 2023
+### Update 2024
 May finish this, may scrap and try again from the beginning -- the 'booking app' concept will be tweaked and adjusted a bit, but this project is not dead.
 
 
